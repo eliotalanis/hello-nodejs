@@ -1,2 +1,2 @@
-//por prueba
-console.log("Hello man\n");
+//por pruebas
+console.log("Hello man\n"); 
